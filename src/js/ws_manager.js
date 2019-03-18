@@ -43,7 +43,7 @@ ObsidianManager.prototype._wipeConfig = function () {
 ObsidianManager.prototype.startService = function ()
 {
     wsession.set ('loadedWalletAddress', 'cx87fda925272496ae3f0bdeb551dad8fd29e0c7cf');
-    wsession.set ('serviceReady', true);
+    // wsession.set ('serviceReady', true);
 };
 
 function check_password (password) {
