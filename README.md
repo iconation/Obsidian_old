@@ -9,7 +9,7 @@
 
 <p align="center">
   <img 
-    src="https://i.imgur.com/l5fpalj.png"
+    src="https://i.imgur.com/LsGzFE6.png"
     width="500px"
     alt="Obsidian Screens">
 </p>
