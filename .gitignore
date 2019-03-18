@@ -1,0 +1,10 @@
+service.log
+node_modules/*
+tbin/*
+.vscode/*
+dist/*
+bin/*
+*.code-workspace
+resources
+Obsidian-win32-x64
+Obsidian-win32-x64.*

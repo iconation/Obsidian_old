@@ -1,0 +1,35 @@
+<template>
+    <section class="section" id="section-overview">
+        <div class="section-contents">
+            <div class="div-overview-address">
+                <div class="input-wrap" style="margin-top:0">
+                    <h2 class="title">Address:</h2>
+                    <textarea title="click to copy" data-cplabel="Wallet Address" tabindex="-1" data-noclear="1" class="ctcl overview-input default-textarea" 
+                    id="wallet-address" readonly="readonly" rows="1">cx87fda925272496ae3f0bdeb551dad8fd29e0c7cf</textarea>
+                    <span id="form-help-wallet-address" class="form-help"></span>
+                </div>
+            </div>
+
+            <div class="main-balance-overview">
+                
+                <div class="div-overview-balance">
+                    <h2 class="title">Balance:</h2>
+                    <h4 class="text-block" id="balance-available" title="Available Balance">
+                        <i class="fas fa-unlock-alt"></i> ICX
+                        <span data-cplabel="Balance" style="float: right;" class="tctcl">...</span>
+                    </h4>
+                </div>
+
+                <div class="div-overview-balance half-width half-width-end">
+                    <h2 class="title">Wallet Owners</h4>
+                </div>
+
+                <div class="input-wrap">
+                        <span class="form-ew form-msg text-spaced-error" id="text-overview-error"></span>
+                        <span class="form-ew form-msg text-spaced-warning" id="text-overview-warning"></span>
+                        <span class="form-ew form-msg text-spaced-success" id="text-overview-success"></span>
+                </div>
+            </div>
+        </div>
+    </section>
+</template>
