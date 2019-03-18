@@ -5,7 +5,7 @@
     alt="ICONation logo">
 </p>
 
-<h1 align="center">Obsidian - ICONation MultiSig Wallet</h1>
+<h1 align="center">Obsidian - ICONation MultiSig GUI Wallet</h1>
 
 <p align="center">
   <img 
