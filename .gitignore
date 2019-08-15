@@ -8,3 +8,4 @@ bin/*
 resources
 Obsidian-win32-x64
 Obsidian-win32-x64.*
+package-lock.json
